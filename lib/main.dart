@@ -7,7 +7,7 @@ main() => runApp(
       color: Color(0xFF000000),
       child: _MyApp(),
       // child: Center(
-      //   child: Text(k
+      //   child: Text(
       //     'Hello, world!', //Текст
       //     style: TextStyle(
       //       color: Color(0xFF00FF21),
